@@ -15,7 +15,6 @@
     "axios": "^1.5.1",
     "fs": "^0.0.1-security",
     "json-2-csv": "^4.1.0",
-    "mongoose": "^5.13.2",
     "node-fetch": "^3.3.2"
   },
   "devDependencies": {
