@@ -1,0 +1,28 @@
+{
+  "name": "stationinformation_app",
+  "version": "1.0.0",
+  "description": "A simple Notes App using CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5",
+    "aws-sdk": "^2.1469.0",
+    "axios": "^1.5.1",
+    "fs": "^0.0.1-security",
+    "json-2-csv": "^4.1.0",
+    "mongoose": "^5.13.2",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "nodemon": "^2.0.3",
+    "prettier": "2.3.2"
+  }
+}
